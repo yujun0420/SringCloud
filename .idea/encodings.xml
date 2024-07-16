@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aispringcloud/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaclinet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaclinet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigclient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/nativeconfigserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/resttemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/resttemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud/zuul/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
